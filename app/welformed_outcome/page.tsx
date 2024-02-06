@@ -23,7 +23,6 @@ export default function AgentsPage() {
       placeholder="Hello! I'm a conversational agent trained to help you create achievable goals!"
       titleText="Welformed Outcome"
       emoji="🦜"
-      showIntermediateStepsToggle={true}
     ></ChatWindow>
   );
 }
